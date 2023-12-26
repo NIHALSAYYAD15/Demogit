@@ -1,0 +1,1 @@
+console.log(`Function ${fn.name} returned ${result}`);
